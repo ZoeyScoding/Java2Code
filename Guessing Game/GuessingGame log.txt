@@ -1,0 +1,30 @@
+This program allows you to play a guessing game.
+I will think of a number between 1 and 
+100 and will allow you to guess until
+you get it. For each guess, I will tell you
+whether the right answer is higher or lower
+than your guess.
+
+I'm thinking of a number between 1 and 100...
+Your guess? 42
+You got it right in 1 guess
+
+Do you want to play again?yes
+I'm thinking of a number between 1 and 100...
+Your guess? 30
+It's higher.
+40
+It's higher.
+50
+It's lower.
+45
+It's lower.
+42
+You got it right in 5 guesses
+
+Do you want to play again?nooo
+Overall results:
+  total games = 2
+  total guesses = 6
+  guesses/game = 3.0
+  best game = 1
